@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Hi people this is dope</h1>
     <p>Welcome to your new Gatsby site!!!!!</p>
     <p>Now go build something dope.</p>
+     {process.env.GATSBY_HELLO}
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
