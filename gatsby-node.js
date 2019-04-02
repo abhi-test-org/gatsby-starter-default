@@ -5,3 +5,8 @@
  */
 
 // You can delete this file if you're not using it
+const execa = require('execa')
+
+exports.onPostBootstrap = () => {
+  execa('ruby', ['-v']).then((res) => { console.log(res.stdout) }) 
+}
