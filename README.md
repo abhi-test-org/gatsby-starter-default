@@ -15,7 +15,7 @@ _Have  and comm-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifyi
+    Use the Gatsby 
     ```shatsby site using the default starter
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
