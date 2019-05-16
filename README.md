@@ -8,7 +8,7 @@
   Gatsby's default starter
 </h1>
 
-Kick off your projecth this default boilerplate.
+Kick off you
 _Have  and comm-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
