@@ -8,7 +8,7 @@
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplate. Thtarter shs witin Gatsby configuration files you might need to get up and running blaziath the blazing fast app generator for Reac
+Kick off your project with this default boilerplate. Thtarter shs witin Gatsby confning blaziath the blazing fast app generator for Reac
 _Have another more specific idea? You may want to check out our vibrant collection of [official and comm-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
