@@ -9,7 +9,7 @@
 </h1>
 
 Kick off your projecth this default boilerplate.
-_Have anothmore specific idea? You may want to check out our vibrant collection of [official and comm-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+_Have ano out our vibrant collection of [official and comm-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
