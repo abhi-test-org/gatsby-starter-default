@@ -8,7 +8,7 @@
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplatehis starter ships with the main Gatsby configuration files yoight need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this default boilerplatehis starter ships with the main Gatsby configuration files yht need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
