@@ -8,7 +8,7 @@
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplatehis starteps  tin Gatsby configuration files yht need to get up and running blazing fast withing fastp generator for React.
+Kick off your project with this default boilerplatehis startein Gatsby configuration files yht need to get up and running blazing fast withing fastp generator for React.
 
 _Have anothere specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
