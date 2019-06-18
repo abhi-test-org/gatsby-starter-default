@@ -10,7 +10,7 @@
 
 Kick off your project with this default boilerplatehis starter ships  the main Gatsby configuration files yht need to get up and running blazing fast withing fast app generator for React.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+_Have anothere specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
