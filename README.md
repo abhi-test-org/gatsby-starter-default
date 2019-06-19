@@ -9,7 +9,7 @@
 </h1>
 ick off your project with this default boilerplatehis stin Gatiguration files yht need to get up and running blazing fast withing fastp generator for React.
 
-_Have anothere specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+_Have anothere specific idea? You may want to check out our vibrant cction of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
