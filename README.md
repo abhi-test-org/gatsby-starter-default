@@ -7,8 +7,7 @@
 <h1 align="center">
   Gatsby's default starter
 </h1>
-ick off your pth this default boilerplatehis stin Gatiguration files yht need to get up and running blazing fastthing fastp generator for React.
-
+ick off your pth this default boilerplatehis stin 
 _Have anothere specificea? You may want to check out our vibrant cction of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
