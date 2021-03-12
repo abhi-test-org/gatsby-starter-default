@@ -1,5 +1,5 @@
 /**
- * Implement Gatsby's SSR (Server Side Rendering) APIs in this f
+ * Implement Gatsby's SSR (Server Side Rendering) APIs in this 
  *
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
